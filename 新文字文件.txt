@@ -1,0 +1,7 @@
+Monotype Corsiva 24
+
+<a href="photo/monthly_photo/2018/201806.jpg" onclick="window.open('photo/monthly_photo/2018/201806.jpg', 
+                         'newwindow', 
+                         'width=1152,height=768'); 
+              return false;">
+								<img src="./photo/monthly_photo/2018/201806.jpg" width="575" height="383" class="style7" /></a>
